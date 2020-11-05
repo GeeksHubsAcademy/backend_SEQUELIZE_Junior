@@ -1,0 +1,23 @@
+{
+    "idleHeartbeats": 2437,
+    "navigatingHeartbeats": 1036,
+    "totalCodingHeartbeats": 2328,
+    "languageHeartbeats": {
+        "json": 202,
+        "javascript": 2124,
+        "ignore": 2
+    },
+    "fileHeartbeats": {
+        "package.json": 45,
+        "models/cita.js": 554,
+        "models/cliente.js": 67,
+        "models/user.js": 200,
+        "models/historial.js": 110,
+        "config/config.json": 157,
+        "migrations/20201105114855-add-associations.js": 351,
+        "migrations/20201105112203-create-cita.js": 47,
+        "app.js": 566,
+        "controllers/userController.js": 229,
+        ".gitignore": 2
+    }
+}
