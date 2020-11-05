@@ -1,11 +1,13 @@
 {
-    "idleHeartbeats": 2437,
-    "navigatingHeartbeats": 1036,
-    "totalCodingHeartbeats": 2328,
+    "idleHeartbeats": 2443,
+    "navigatingHeartbeats": 1072,
+    "totalCodingHeartbeats": 2375,
     "languageHeartbeats": {
         "json": 202,
         "javascript": 2124,
-        "ignore": 2
+        "ignore": 2,
+        "plaintext": 45,
+        "markdown": 2
     },
     "fileHeartbeats": {
         "package.json": 45,
@@ -18,6 +20,8 @@
         "migrations/20201105112203-create-cita.js": 47,
         "app.js": 566,
         "controllers/userController.js": 229,
-        ".gitignore": 2
+        ".gitignore": 2,
+        "c:\\bootcampMadrid\\Sequelize\\seqEx\\controllers\\userController.js.git": 45,
+        "README.md": 2
     }
 }
